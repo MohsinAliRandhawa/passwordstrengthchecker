@@ -26,7 +26,7 @@ A high-tech, interactive web application that evaluates password strength in rea
    ```
 2. Navigate into the directory:
    ```bash
-   cd passwordstrengthchecker
+   cd password-strength-checker
    ```
 3. Install dependencies:
    ```bash
