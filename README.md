@@ -22,7 +22,7 @@ A high-tech, interactive web application that evaluates password strength in rea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MohsinAliRandhawa/passwordstrengthchecker.git
+   git clone https://github.com/MohsinAliRandhawa/password-strength-checker.git
    ```
 2. Navigate into the directory:
    ```bash
