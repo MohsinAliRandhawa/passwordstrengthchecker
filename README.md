@@ -2,10 +2,8 @@
 
 A high-tech, interactive web application that evaluates password strength in real-time. Designed with a premium cyberpunk aesthetic, it calculates password entropy, estimates brute-force cracking time, and provides an automatic secure password generator.
 
-![UI Preview](https://via.placeholder.com/800x450.png?text=CyberGuard+Preview)
-
 ## 🚀 Live Demo
-[Click here to view the live project on Vercel](https://password-strength-checker.vercel.app/) *(Note: Update this link with your actual Vercel URL)*
+[Click here to view the live project on Vercel](https://passwordstrengthcheckermodel.vercel.app/) *(Note: Update this link with your actual Vercel URL)*
 
 ## ✨ Key Features
 * **Real-time Entropy Calculation:** Dynamically scores passwords as you type based on character variety and length.
@@ -38,4 +36,3 @@ A high-tech, interactive web application that evaluates password strength in rea
    ```bash
    npm run dev
    ```
-5. Open your browser and visit `http://localhost:5173`
