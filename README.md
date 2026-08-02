@@ -3,7 +3,7 @@
 A high-tech, interactive web application that evaluates password strength in real-time. Designed with a premium cyberpunk aesthetic, it calculates password entropy, estimates brute-force cracking time, and provides an automatic secure password generator.
 
 ## 🚀 Live Demo
-[Click here to view the live project on Vercel](https://passwordstrengthcheckermodel.vercel.app/) *(Note: Update this link with your actual Vercel URL)*
+[Click here to view the live project on Vercel](https://passwordstrengthcheckermodel.vercel.app/)
 
 ## ✨ Key Features
 * **Real-time Entropy Calculation:** Dynamically scores passwords as you type based on character variety and length.
